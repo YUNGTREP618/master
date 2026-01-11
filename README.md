@@ -43,3 +43,4 @@ python card.py
 <br>
 
 # This tool is for educational purposes only, and any improper use may expose you to legal liability. I am not responsible for any bad use.
+git clone https://github.com/qorsan73/master
